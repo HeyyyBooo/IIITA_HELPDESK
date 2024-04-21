@@ -20,7 +20,7 @@ $ticketID = $_GET['ticket_id'];
     <link rel="shortcut icon" href="assets/icon.gif" type="image/x-icon">
     <style>
       body {
-        background-color: #b7d0f7;
+        background-color: #e0deff;
         font-family: "Candara";
         color: #333333;
       }
